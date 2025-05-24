@@ -7,7 +7,7 @@ This is a sleek and modern weather app widget designed to display real-time weat
 
 ## 📸 Preview
 
-![Weather App Preview](./img.file/weather-app-project.png)
+![Weather App Preview](./images/weather-app-project.png)
 
 ---
 
